@@ -66,7 +66,7 @@
     * [Table of Contents](service-guide/messagequeue/paas-ta_rabbitmq_service_install_guide_v1.0.md)
   * [storage](service-guide/storage/README.md)
     * [PAAS-TA\_GLUSTERFS\_SERVICE\_INSTALL\_GUIDE\_V1.0](service-guide/storage/paas-ta_glusterfs_service_install_guide_v1.0.md)
-* [deployment-guide](deployment-guide/README.md)
+* [123deployment-guide](deployment-guide/README.md)
   * [on-demand](deployment-guide/on-demand/README.md)
     * [Table of Contents](deployment-guide/on-demand/on_demand_deployment_guide.md)
 
